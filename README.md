@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **web application**
+- 🔭 I’m currently working on **web application using mern stack**
 
 - 🌱 I’m currently learning **Node.js**
 
