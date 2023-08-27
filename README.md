@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **web application using mern stack**
+- 🔭 I’m currently working on **CS:GO casino using mern stack**
 
 - 🌱 I’m currently learning **Node.js**
 
