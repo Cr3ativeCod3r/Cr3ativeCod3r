@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">Developer from Poland</h3>
+<h4>Programs things related to gambling</h4>
 
 
 
