@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **CS:GO casino using mern stack**
+- 🔭 I’m currently working on **CS:GO casino**
 
 - 🌱 I’m currently learning **Node.js**
 
