@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **CS:GO casino**
+- 🔭 I’m currently working on **IT shop**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Djiango**
 
 - 📫 How to reach me **s99486@pollub.edu.pl**
 
