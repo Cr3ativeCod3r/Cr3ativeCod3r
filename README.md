@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Djiango**
 
-- 📫 How to reach me **s99486@pollub.edu.pl**
+- 📫 How to reach me **banaszekk123@gmail.com**
   
 - My LeetCode https://leetcode.com/Cr3ativeCod3r
 
