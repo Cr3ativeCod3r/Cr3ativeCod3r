@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **IT shop**
+- 🔭 I’m currently working on **Portfolio web**
 
-- 🌱 I’m currently learning **Djiango**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **banaszekk123@gmail.com**
   
