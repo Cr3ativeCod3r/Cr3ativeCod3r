@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **banaszekk123@gmail.com**
   
-- My website: https://kamil-banaszek.pl
+- 🔥 My website: https://kamil-banaszek.pl
   
 - My LeetCode https://leetcode.com/Cr3ativeCod3r
 
