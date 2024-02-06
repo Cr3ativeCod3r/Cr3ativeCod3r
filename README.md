@@ -12,7 +12,11 @@
   
 - 🔥 My website: https://kamil-banaszek.pl
   
-- My LeetCode https://leetcode.com/Cr3ativeCod3r
+- 🎓 I'm studyoing at Lublin University of Technology
+  
+- ♟ My LeetCode https://leetcode.com/Cr3ativeCod3r
+
+- 🤵🏽‍♂️ My Linkedin https://www.linkedin.com/in/kamil-banaszek-956938267/
 
 <h3 align="left">Connect with me: <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100014469062012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kamil banaszek" height="30" width="40" /></a>
