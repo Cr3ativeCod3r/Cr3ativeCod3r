@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">Developer from Poland</h3>
-<h4 align="center">Programs things related to gambling</h4>
+<h3 align="center">Full Stack developer from Poland</h3>
+<h4 align="center"> IT technicain, Engineering student</h4>
 
 
 
