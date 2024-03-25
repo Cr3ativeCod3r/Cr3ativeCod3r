@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Portfolio web**
+- 🔭 I’m currently working on **Social network**
 
 - 🌱 I’m currently learning **TypeScript**
 
