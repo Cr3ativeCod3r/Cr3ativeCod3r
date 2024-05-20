@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **banaszekk123@gmail.com**
   
-- 🔥 My website: https://kamil-banaszek.pl
+- 🔥 My website: https://kamilbanaszek.pl
   
 - 🎓 I'm studyoing at Lublin University of Technology
   
