@@ -3,6 +3,7 @@
 <h4 align="center"> IT technicain, Engineering student</h4>
 
 
+[![wakatime](https://wakatime.com/badge/user/018d527f-1077-40f3-8f51-4708de7f3032.svg)](https://wakatime.com/@018d527f-1077-40f3-8f51-4708de7f3032)
 
 - 🔭 I’m currently working on **Social network**
 
