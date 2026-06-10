@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">Full Stack Developer from Poland with a focus on Python, PHP, and React</h3>
-<h4 align="center"> IT technicain, IT engineer</h4>
+<h4 align="center"> IT technicain (EE.08, EE.09), IT engineer (SE specialization)</h4>
 
 
 [![wakatime](https://wakatime.com/badge/user/018d527f-1077-40f3-8f51-4708de7f3032.svg)](https://wakatime.com/@018d527f-1077-40f3-8f51-4708de7f3032)
@@ -11,8 +11,6 @@
 - 📫 How to reach me **banaszekk123@gmail.com**
   
 - 🔥 My website: https://kamil-banaszek.pl
-  
-- 🎓 I'm studyoing at Lublin University of Technology
   
 - ♟ My LeetCode https://leetcode.com/Cr3ativeCod3r
 
