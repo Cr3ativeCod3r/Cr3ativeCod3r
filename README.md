@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">Full Stack Developer from Poland with a focus on Python, PHP, and React</h3>
-<h4 align="center"> IT technicain (EE.08, EE.09), IT engineer (SE specialization)</h4>
-
+<h3 align="center">IT Engineer (Software Engineering specialization) – Lublin University of Technology</h3>
+<h3 align="center">IT Technician (EE.08, EE.09), IT Engineer (Software Engineering specialization)</h3>
 
 [![wakatime](https://wakatime.com/badge/user/018d527f-1077-40f3-8f51-4708de7f3032.svg)](https://wakatime.com/@018d527f-1077-40f3-8f51-4708de7f3032)
 
