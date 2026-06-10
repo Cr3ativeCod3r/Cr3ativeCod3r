@@ -6,7 +6,7 @@
 [![wakatime](https://wakatime.com/badge/user/018d527f-1077-40f3-8f51-4708de7f3032.svg)](https://wakatime.com/@018d527f-1077-40f3-8f51-4708de7f3032)
 
 
-- 🌱 I’m currently mastering **Python (Django, FastAPI, DSA, )AI**
+- 🌱 I’m currently mastering **Python (Django, FastAPI, Data Structures & Algorithms, AI)**
 
 - 📫 How to reach me **banaszekk123@gmail.com**
   
